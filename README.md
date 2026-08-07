@@ -10,6 +10,6 @@ This is for Purpose
 ## Deployment
 
 ## How To Contribute
-
+Please fork this repository and then issue pull request for review.
 ## Copy right
 2026 Git Training
