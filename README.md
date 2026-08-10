@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a simple file to show how to use git and github
-Adding a line for rebasing
+Adding a line for rebasing, then more changes from myfeature branch too
 ## Introduction
 This is only for introduction
 
