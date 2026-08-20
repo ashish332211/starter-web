@@ -12,4 +12,4 @@ This is for Purpose
 ## How To Contribute
 Please fork this repository and then issue pull request for review.
 ## Copy right
-2026 Git Training
+2026 Git Training. Alright Reserved.
